@@ -5,9 +5,9 @@
 I'm a Salesforce consultant with 2 years of experience in implementing and
 customizing solutions for various clients.
 
-## 🏆 Certifications.![coding]
+## 🏆 Certifications
 
-(./img/coding.gif)
+![coding](./img/coding.gif)
 
 1. Salesforce Certified Administrator
 2. Salesforce Certified AppBuilder
