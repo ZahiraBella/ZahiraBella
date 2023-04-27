@@ -5,7 +5,9 @@
 I'm a Salesforce consultant with 2 years of experience in implementing and
 customizing solutions for various clients.
 
-## 🏆 Certifications.![coding](./img/coding.gif)
+## 🏆 Certifications
+
+![coding](./img/coding.gif)
 
 1. Salesforce Certified Administrator
 2. Salesforce Certified AppBuilder
@@ -41,4 +43,4 @@ customizing solutions for various clients.
 💡 I am always striving to improve my development skills, and taking on new
 challenges is one way to do so. That's why I've decided to tackle a new
 challenge at Hack Your Future, to further my experience as a Salesforce
-consultant :smile:
+consultant 😄
